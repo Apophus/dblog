@@ -1,10 +1,11 @@
 h1 a {
-    color: #FC2D05;
+    color: #ffffff;
 }
+
 .page-header {
-    background-color: #ff9400;
+    background-color: #B75668;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 20px 80px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -14,15 +15,20 @@ h1 a {
 }
 
 .content {
-    margin-left: 40px;
+    /*margin-left: 40px;*/
+    /*background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Orbitron', sans-serif;
+    color: #ffffff;
 }
 
 .date {
-    color: #828282;
+    color: #ffffff;
 }
 
 .save {
@@ -45,5 +51,16 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #000000;
+    color: #ffffff;
+}
+body{
+background-image: url(../img/coffee.jpg);
+    background-repeat: no-repeat;
+    background-attachment: cover;    
+}
+p{
+
+font-family: 'Covered By Your Grace', cursive;
+/*color: #ffffff;*/
+font-size: 18px;
 }
